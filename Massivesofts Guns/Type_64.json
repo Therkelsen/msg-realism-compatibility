@@ -1,7 +1,7 @@
 {
-    "czscorpion": {
-		"ItemID": "czscorpion",
-        "Name": "czscorpion",
+    "weapon_TYPE64_762x25_MASSIVESOFT": {
+		"ItemID": "weapon_TYPE64_762x25_MASSIVESOFT",
+        "Name": "weapon_type64_762x25_container",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
