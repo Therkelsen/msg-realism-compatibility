@@ -12,14 +12,19 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # Update to use Node.js 20
 
     - name: Install jq
-      run: sudo apt-get install jq
+      run: sudo apt-get update && sudo apt-get install -y jq
 
     - name: Find and validate JSON files
       run: |
-        for file in $(find . -name "*.json"); do
+        find . -name "*.json" -type f | while read file; do
           echo "Validating $file"
-          cat "$file" | jq empty
+          jq . "$file" > /dev/null 2>&1
+          if [ $? -ne 0 ]; then
+            echo "Invalid JSON syntax in $file"
+            exit 1
+          fi
+          echo "Successfully validated $file"
         done
