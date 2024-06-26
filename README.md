@@ -1,5 +1,10 @@
-Feel free to hit me up if there are any issues. Also, I'm only doing the weapons I use from the pack.
-Feel free to contribute by, just send in a PR and I'll check it :)
+Feel free to hit me up if there are any issues. This only has compatibility patches for the weapons I personally use from the pack, being:
+- JAK-12
+- M14
+- M1911CE
+- QBZ-03
+- Type 64
+But if you want the rest, feel free to add it by opening a PR in the GitHub repo.
 
 ## Installation
 1. Download the latest release.
