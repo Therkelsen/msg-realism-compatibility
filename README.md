@@ -1,10 +1,6 @@
-Feel free to hit me up if there are any issues. This only has compatibility patches for the weapons I personally use from the pack, being:
-- JAK-12
-- M14
-- M1911CE
-- QBZ-03
-- Type 64
-But if you want the rest, feel free to add it by opening a PR in the GitHub repo.
+If you experience any issues, feel free to open an issue. If fixing it yourself is more your thing, there's a guide on how to contribute below.
+
+Shoutout to [OptimusChad](https://hub.sp-tarkov.com/user/55363-optimuschad/) who made [the patch](https://hub.sp-tarkov.com/files/file/2017-realism-compatibility-for-massivesoft-weapons/#versions) for the original mods by [Massivesoft](https://hub.sp-tarkov.com/files/user-file-list/18902-massivesoft/), rather than [Pettan](https://hub.sp-tarkov.com/user/29815-pettan/)'s [port](https://hub.sp-tarkov.com/files/file/1670-massivesoft-s-guns/#overview). I've used their values for inspiration, in some places more than others.
 
 ## Installation
 1. Download the latest release.
@@ -18,13 +14,13 @@ But if you want the rest, feel free to add it by opening a PR in the GitHub repo
 2. **Clone Your Fork**
    - Open your terminal and run the following command to clone your forked repository to your local machine:
      ```sh
-     git clone https://github.com/your-username/your-repo-name.git
+     git clone https://github.com/Therkelsen/msg-realism-compatibility.git
      ```
 
 3. **Create a New Branch**
    - Navigate to the repository directory:
      ```sh
-     cd your-repo-name
+     cd msg-realism-compatibility
      ```
    - Create a new branch for your changes:
      ```sh
@@ -46,9 +42,9 @@ But if you want the rest, feel free to add it by opening a PR in the GitHub repo
      ```
 
 6. **Create a Pull Request**
-   - Go to the original repository on GitHub.
+   - Go to this repository on GitHub.
    - Click on the "New Pull Request" button.
-   - Select the branch you created from your forked repository and compare it with the main branch of the original repository.
+   - Select the branch you created from your forked repository and compare it with the main branch of the repository.
    - Click on "Create Pull Request" and provide a descriptive title and comment about your changes.
    
 7. **Wait for Review**
