@@ -30,7 +30,7 @@
         "RecoilDamping": 0.78,
         "RecoilHandDamping": 0.675,
         "WeaponAllowADS": false,
-        "Weight": 1.59,
+        "Weight": 0,
         "DurabilityBurnRatio": 0.35,
         "AutoROF": 750,
         "SemiROF": 320,
@@ -67,7 +67,7 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.82,
+        "Weight": 1.2,
         "LoyaltyLevel": 0,
         "Price": 0
 	},
@@ -93,7 +93,7 @@
             "5b099a9d5acfc47a8607efe7"
         ],
         "Ergonomics": 0,
-        "Weight": 1.2,
+        "Weight": 1.18,
         "ShotgunDispersion": 1,
         "Loudness": 0,
         "LoyaltyLevel": 0,
