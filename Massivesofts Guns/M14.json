@@ -47,7 +47,8 @@
             "x": 0,
             "y": -0.45,
             "z": 0
-        }
+        },
+        "MasteryCategory": "M1A"
 	},
     "mod_stock_M14_wood_MASSIVESOFT": {
 		"ItemID": "mod_stock_M14_wood_MASSIVESOFT",

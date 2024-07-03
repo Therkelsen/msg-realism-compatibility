@@ -43,7 +43,8 @@
         "BaseChamberCheckSpeed": 1.2,
         "BaseFixSpeed": 1.2,
         "OffsetRotation": 0.015,
-        "RecoilIntensity": 0.23
+        "RecoilIntensity": 0.23,
+        "MasteryCategory": "MP153"
     },
     "mod_sight_front_JAK12_MASSIVESOFT": {
         "ItemID": "mod_sight_front_JAK12_MASSIVESOFT",

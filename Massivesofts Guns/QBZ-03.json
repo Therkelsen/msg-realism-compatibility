@@ -43,7 +43,8 @@
         "BaseChamberCheckSpeed": 1.3,
         "BaseFixSpeed": 1.2,
         "OffsetRotation": 0.008,
-        "RecoilIntensity": 0.165
+        "RecoilIntensity": 0.165,
+        "MasteryCategory": "AKM"
     },
     "mod_muzzle_QBZ03_std_MASSIVESOFT": {
         "ItemID": "mod_muzzle_QBZ03_std_MASSIVESOFT",
