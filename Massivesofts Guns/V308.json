@@ -43,7 +43,8 @@
         "BaseChamberCheckSpeed": 1.4,
         "BaseFixSpeed": 1.9,
         "OffsetRotation": 0.009,
-        "RecoilIntensity": 0.2
+        "RecoilIntensity": 0.2,
+        "MasteryCategory": "VECTOR"
     },
     "mod_barrel_v308_280_MASSIVESOFT": {
         "ItemID": "mod_barrel_v308_280_MASSIVESOFT",

@@ -42,7 +42,8 @@
         "BaseChamberCheckSpeed": 2,
         "BaseFixSpeed": 1,
         "OffsetRotation": 0.01,
-        "RecoilIntensity": 0.15
+        "RecoilIntensity": 0.15,
+        "MasteryCategory": "PPSH"
 	},
     "mag_TYPE64_std_762x25_30_MASSIVESOFT": {
 		"ItemID": "mag_TYPE64_std_762x25_30_MASSIVESOFT",

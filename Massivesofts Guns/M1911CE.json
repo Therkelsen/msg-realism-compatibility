@@ -41,7 +41,8 @@
         "BaseChamberCheckSpeed": 1,
         "BaseFixSpeed": 1,
         "OffsetRotation": 0.011,
-        "RecoilIntensity": 0.25
+        "RecoilIntensity": 0.25,
+        "MasteryCategory": "P226"
 	},
     "mod_barrel_1911CE_MASSIVESOFT": {
         "ItemID": "mod_barrel_1911CE_MASSIVESOFT",
