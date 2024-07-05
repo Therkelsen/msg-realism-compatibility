@@ -5,7 +5,6 @@ Shoutout to [OptimusChad](https://hub.sp-tarkov.com/user/55363-optimuschad/) who
 ## Installation
 1. Download the latest release.
 2. Drop the provided `user` folder into your `SPT` folder.
-3. If you, like me, have renamed the JAK12 to AA12, use the alternate release instead.
 
 ## Contributing
 1. **Fork the Repository**
