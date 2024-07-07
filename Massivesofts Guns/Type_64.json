@@ -422,7 +422,7 @@
         "Weight": 0.27,
         "LoyaltyLevel": 0,
         "Price": 0
-	}
+	},
     "mod_barrel_TYPE64_std_MASSIVESOFT": {
 		"ItemID": "mod_barrel_TYPE64_std_MASSIVESOFT",
         "Name": "barrel_typr64_default",
