@@ -12,18 +12,17 @@ if (-Not (Test-Path -Path $releaseDir)) {
 }
 
 # Create directory names within the release directory
-$baseDir1 = "$releaseDir\msg-realism-compatibility_v${mod_version}_SPT-v${spt_version}"
-$baseDir2 = "$releaseDir\msg-realism-compatibility_v${mod_version}_SPT-v${spt_version}-alternate"
+$baseDir = "$releaseDir\msg-realism-compatibility_v${mod_version}_SPT-v${spt_version}"
 
 # Define the inner directory structure
 $innerDir = "user\mods\SPT-Realism\db\put_new_stuff_here\Massivesofts Guns"
 
 # Create the directories
-New-Item -ItemType Directory -Path "$baseDir1\$innerDir" -Force
-New-Item -ItemType Directory -Path "$baseDir2\$innerDir" -Force
+New-Item -ItemType Directory -Path "$baseDir\$innerDir" -Force
 
 # Define the list of files to move
 $filesToMove = @(
+    'Massivesofts Guns\JAK_12.json',
     'Massivesofts Guns\M14.json',
     'Massivesofts Guns\M1911CE.json',
     'Massivesofts Guns\QBZ-03.json',
@@ -33,18 +32,11 @@ $filesToMove = @(
 
 # Move files to both directories
 foreach ($file in $filesToMove) {
-    Copy-Item -Path $file -Destination "$baseDir1\$innerDir"
-    Copy-Item -Path $file -Destination "$baseDir2\$innerDir"
+    Copy-Item -Path $file -Destination "$baseDir\$innerDir"
 }
 
-# Move specific files to respective directories
-Copy-Item -Path 'Massivesofts Guns\JAK_12.json' -Destination "$baseDir1\$innerDir"
-Copy-Item -Path 'Massivesofts Guns\AA_12.json' -Destination "$baseDir2\$innerDir"
-
 # Create zip files
-Compress-Archive -Path "$baseDir1\*" -DestinationPath "$releaseDir\msg-realism-compatibility_v${mod_version}_SPT-v${spt_version}.zip" -Force
-Compress-Archive -Path "$baseDir2\*" -DestinationPath "$releaseDir\msg-realism-compatibility_v${mod_version}_SPT-v${spt_version}-alternate.zip" -Force
+Compress-Archive -Path "$baseDir\*" -DestinationPath "$releaseDir\msg-realism-compatibility_v${mod_version}_SPT-v${spt_version}.zip" -Force
 
 # Clean up the created directories
-Remove-Item -Recurse -Force "$baseDir1"
-Remove-Item -Recurse -Force "$baseDir2"
+Remove-Item -Recurse -Force "$baseDir"
