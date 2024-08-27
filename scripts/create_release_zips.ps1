@@ -22,10 +22,13 @@ New-Item -ItemType Directory -Path "$baseDir\$innerDir" -Force
 
 # Define the list of files to move
 $filesToMove = @(
+    'Massivesofts Guns\ISO.json'
     'Massivesofts Guns\JAK_12.json',
     'Massivesofts Guns\M14.json',
     'Massivesofts Guns\M1911CE.json',
     'Massivesofts Guns\QBZ-03.json',
+    'Massivesofts Guns\QBZ-97.json',
+    'Massivesofts Guns\Tavor_X95.json',
     'Massivesofts Guns\Type_64.json',
     'Massivesofts Guns\V308.json'
 )
