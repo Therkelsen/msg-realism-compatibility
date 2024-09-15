@@ -99,7 +99,6 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    },
     "043043BBA03BBA0343000000": {
 		"ItemID": "043043BBA03BBA0343000000",
         "Name": "stock_qbz03",
@@ -122,7 +121,6 @@
         "Weight": 0.31,
         "LoyaltyLevel": 0,
         "Price": 0
-	},
 	},
     "043BBBBBA03BBA03BB000000": {
         "ItemID": "043BBBBBA03BBA03BB000000",
@@ -182,9 +180,6 @@
         "VerticalRecoil": -7,
         "HorizontalRecoil": -7,
         "Dispersion": 0,
-        "VerticalRecoil": -7,
-        "HorizontalRecoil": -7,
-        "Dispersion": 0,
         "CameraRecoil": 0,
         "AutoROF": 0,
         "SemiROF": 0,
@@ -193,9 +188,6 @@
         "Accuracy": 0,
         "ConflictingItems": [],
         "Ergonomics": 0,
-        "Weight": 0.100,
-        "Loudness": 4,
-        "Convergence": 0,
         "Weight": 0.100,
         "Loudness": 4,
         "Convergence": 0,
