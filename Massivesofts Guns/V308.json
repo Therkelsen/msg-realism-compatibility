@@ -1,7 +1,8 @@
 {
     "020020308308000000000000": {
         "ItemID": "020020308308000000000000",
-        "Name": "v308/weapon_tdi_kriss_vector_gen_2_1143x23_container",
+        "Name": "weapon_V308",
+        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,7 +49,8 @@
     },
     "04B04B30830804B000000000": {
         "ItemID": "04B04B30830804B000000000",
-        "Name": "v308/barrel_vector_280mm_762x51",
+        "Name": "barrel_V308_280mm",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -6,
@@ -73,7 +75,8 @@
     },
     "04BC4B308308C4B000000000": {
         "ItemID": "04BC4B308308C4B000000000",
-        "Name": "v308/barrel_vector_185mm_762x51",
+        "Name": "barrel_V308_185mm",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -98,7 +101,8 @@
     },
     "02FD503083082FD500000000": {
         "ItemID": "02FD503083082FD500000000",
-        "Name": "v308/mag_vector_drum",
+        "Name": "mag_V308_drum",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -8,
         "Ergonomics": -5,
@@ -114,7 +118,8 @@
     },
     "02F02F30830802F000000000": {
         "ItemID": "02F02F30830802F000000000",
-        "Name": "v308/mag_vector_mag",
+        "Name": "mag_V308_mag",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 6,
         "Ergonomics": 5,
@@ -130,7 +135,8 @@
     },
     "02FA20308308A20000000000": {
         "ItemID": "02FA20308308A20000000000",
-        "Name": "v308/magazine_v308_762x51_20",
+        "Name": "mag_v308_20",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 2,
@@ -146,7 +152,8 @@
     },
     "041041308308041000000000": {
         "ItemID": "041041308308041000000000",
-        "Name": "v308/mount_vector_kriss_bottom_rail_long",
+        "Name": "mount_V308_bottom_rail_long",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": -1,
         "Accuracy": 0,

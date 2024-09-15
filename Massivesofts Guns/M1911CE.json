@@ -1,7 +1,8 @@
 {
     "0210211911CE000000000000": {
         "ItemID": "0210211911CE000000000000",
-        "Name": "weapon_colt_m1911a1_1143x23_container",
+        "Name": "weapon_M1911CE",
+        "TemplateType": "gun",
         "WeapType": "pistol",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -46,7 +47,8 @@
 	},
     "02F02F1911CE02F000000000": {
         "ItemID": "02F02F1911CE02F000000000",
-        "Name": "mag_m1911_colt_m1911a1_std_1143x23_7_pr",
+        "Name": "mag__M1911CE_std_7",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -62,7 +64,8 @@
 	},
     "04B04B1911CE04B000000000": {
         "ItemID": "04B04B1911CE04B000000000",
-        "Name": "barrel_m1911a1_127mm_1143x23_pr",
+        "Name": "barrel_M1911CE_127mm",
+        "TemplateType": "mod",
         "ModType": "short_barrel",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -86,7 +89,8 @@
     },
     "04C04C1911CE04C000000000": {
         "ItemID": "04C04C1911CE04C000000000",
-        "Name": "catch_m1911_colt_m1911a1_pr",
+        "Name": "catch_M1911CE",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -109,7 +113,8 @@
 	},
     "04C0FF1911CE0FF000000000": {
         "ItemID": "04C0FF1911CE0FF000000000",
-        "Name": "hammer_m1911_colt_m1911a1_pr",
+        "Name": "hammer_M1911CE",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -131,7 +136,8 @@
 	},
     "0420421911CE042000000000": {
         "ItemID": "0420421911CE042000000000",
-        "Name": "pistolgrip_m1911_colt_m1911a1_pr",
+        "Name": "pg_M1911CE",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -4,
@@ -146,7 +152,8 @@
 	},
     "0400401911CE040000000000": {
         "ItemID": "0400401911CE040000000000",
-        "Name": "trigger_m1911_colt_m1911a1_pr",
+        "Name": "trigger_M1911CE",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -169,7 +176,8 @@
 	},
     "0440441911CE044000000000": {
         "ItemID": "0440441911CE044000000000",
-        "Name": "reciever_m1911_colt_m1911a1_pr",
+        "Name": "rec_M1911CE",
+        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 10,

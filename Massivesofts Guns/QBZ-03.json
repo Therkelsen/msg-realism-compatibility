@@ -1,7 +1,8 @@
 {
     "020020BBA03BBA0300000000": {
         "ItemID": "020020BBA03BBA0300000000",
-        "Name": "weapon_qbz03_container",
+        "Name": "weapon_qbz03",
+        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,7 +49,8 @@
     },
     "041041BBA03BBA0341000000": {
         "ItemID": "041041BBA03BBA0341000000",
-        "Name": "handguard_qbz03",
+        "TemplateType": "mod",
+        "Name": "hg_qbz03",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -1,
@@ -65,7 +67,8 @@
     },
     "0410AABBA03BBA03AA000000": {
         "ItemID": "0410AABBA03BBA03AA000000",
-        "Name": "handguard_qbz03_rail",
+        "Name": "hg_qbz03_rail",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -1.5,
@@ -82,7 +85,8 @@
     },
     "042042BBA03BBA0342000000": {
         "ItemID": "042042BBA03BBA0342000000",
-        "Name": "pistol_qbz03",
+        "Name": "pg_qbz03",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -98,6 +102,7 @@
     "043043BBA03BBA0343000000": {
 		"ItemID": "043043BBA03BBA0343000000",
         "Name": "stock_qbz03",
+        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -4,
@@ -120,6 +125,7 @@
     "043BBBBBA03BBA03BB000000": {
         "ItemID": "043BBBBBA03BBA03BB000000",
         "Name": "tube_qbz03",
+        "TemplateType": "mod",
         "ModType": "buffer_adapter",
         "VerticalRecoil": 1,
         "HorizontalRecoil": -2.5,
@@ -141,7 +147,8 @@
     },
     "049049BBA03BBA0349000000": {
         "ItemID": "049049BBA03BBA0349000000",
-        "Name": "sight_rear_qbz03",
+        "Name": "rs_qbz03",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -156,6 +163,7 @@
     "044AAABBA03BBA030A000000": {
         "ItemID": "044AAABBA03BBA030A000000",
         "Name": "mount_qbz03",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -166,7 +174,8 @@
     },
     "04A04ABBA03BBA034A000000": {
         "ItemID": "04A04ABBA03BBA034A000000",
-        "Name": "MUZZLE_QBZ03",
+        "Name": "muzzle_qbz03",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -7,
         "HorizontalRecoil": -7,

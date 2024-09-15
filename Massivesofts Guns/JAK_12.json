@@ -1,7 +1,8 @@
 {
     "023023A12A12A12000000000": {
         "ItemID": "023023A12A12A12000000000",
-        "Name": "weapon_jak12_container",
+        "Name": "weapon_jak12",
+        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -49,6 +50,7 @@
     "04B04Ba12a12BABA00000000": {
         "ItemID": "04B04Ba12a12BABA00000000",
         "Name": "barrel_jak12",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -72,7 +74,8 @@
     },
     "041041A12A12041000000000": {
         "ItemID": "041041A12A12041000000000",
-        "Name": "handguard_jak12",
+        "Name": "hg_jak12",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": 0,
@@ -90,6 +93,7 @@
     "0410FBA12A120FB000000000": {
         "ItemID": "0410FBA12A120FB000000000",
         "Name": "mount_jak12_bottom",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -101,6 +105,7 @@
     "0410FFA12A120FF000000000": {
         "ItemID": "0410FFA12A120FF000000000",
         "Name": "mount_jak12_side",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -112,6 +117,7 @@
     "043043a12a12043000000000": {
         "ItemID": "043043a12a12043000000000",
         "Name": "stock_jak12",
+        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -8,
@@ -133,7 +139,8 @@
     },
     "02F02FA12A12080800000000": {
         "ItemID": "02F02FA12A12080800000000",
-        "Name": "magazine_jak12_12ga_10",
+        "Name": "mag_jak12a_10",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -147,7 +154,8 @@
     },
     "02F02FA12A12202000000000": {
         "ItemID": "02F02FA12A12202000000000",
-        "Name": "magazine_jak12_12ga_20",
+        "Name": "mag_jak12a_20",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -12,
         "Ergonomics": -2.5,
@@ -163,7 +171,8 @@
     },
     "02F02FA12A12323200000000": {
         "ItemID": "02F02FA12A12323200000000",
-        "Name": "magazine_jak12_12ga_32",
+        "Name": "mag_jak12a_32",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -18,
         "Ergonomics": -8,
@@ -179,7 +188,8 @@
     },
     "049049A12A120F9000000000": {
         "ItemID": "049049A12A120F9000000000",
-        "Name": "sight_front_jak12",
+        "Name": "fs_jak12",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -193,7 +203,8 @@
     },
     "049099a12a120b9000000000": {
         "ItemID": "049099a12a120b9000000000",
-        "Name": "sight_rear_jak12",
+        "Name": "rs_jak12",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -207,7 +218,8 @@
     },
     "04A04AA12A120AA000000000": {
         "ItemID": "04A04AA12A120AA000000000",
-        "Name": "muzzle_jak12_12g",
+        "Name": "muzzle_jak12",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -234,6 +246,7 @@
     "041AFFA12A12AFF000000000": {
         "ItemID": "041AFFA12A12AFF000000000",
         "Name": "mount_jak12_side_short",
+        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -244,7 +257,8 @@
     },
     "041A41A12A12A41000000000": {
         "ItemID": "041A41A12A12A41000000000",
-        "Name": "handguard_jak12_short",
+        "Name": "hg_jak12_short",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 2,
         "HorizontalRecoil": -3,
@@ -262,6 +276,7 @@
     "04BA4Ba12a12BABA00000000": {
         "ItemID": "04BA4Ba12a12BABA00000000",
         "Name": "barrel_jak12_short",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -286,6 +301,7 @@
     "041BFFA12A12BFF000000000": {
         "ItemID": "041BFFA12A12BFF000000000",
         "Name": "mount_jak12_side_heavy",
+        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -296,7 +312,8 @@
     },
     "041B41A12A12B41000000000": {
         "ItemID": "041B41A12A12B41000000000",
-        "Name": "handguard_jak12_heavy",
+        "Name": "hg_jak12_heavy",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -3,
@@ -314,6 +331,7 @@
     "04BB4Ba12a12BBBB00000000": {
         "ItemID": "04BB4Ba12a12BBBB00000000",
         "Name": "barrel_jak12_heavy",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -337,7 +355,8 @@
     },
     "04AB4AA12A12BAA000000000": {
         "ItemID": "04AB4AA12A12BAA000000000",
-        "Name": "muzzle_jak12_12g_heavy",
+        "Name": "muzzle_jak12_heavy",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -366,7 +385,8 @@
     },
     "041C41A12A12C41000000000": {
         "ItemID": "041C41A12A12C41000000000",
-        "Name": "handguard_jak12_long",
+        "Name": "hg_jak12_long",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -6,
         "HorizontalRecoil": -5,
@@ -384,6 +404,7 @@
     "04BC4Ba12a12CCCC00000000": {
         "ItemID": "04BC4Ba12a12CCCC00000000",
         "Name": "barrel_jak12_long",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -407,7 +428,8 @@
     },
     "04AC4AA12A12CAA000000000": {
         "ItemID": "04AC4AA12A12CAA000000000",
-        "Name": "muzzle_jak12_12g_long",
+        "Name": "muzzle_jak12_long",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -10,

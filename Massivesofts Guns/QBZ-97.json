@@ -2,6 +2,7 @@
     "020020BBA97BBA9700000000": {
         "ItemID": "020020BBA97BBA9700000000",
         "Name": "weapon_qbz97",
+        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -49,6 +50,7 @@
     "04A04ABBA97BBA974A000000": {
         "ItemID": "04A04ABBA97BBA974A000000",
         "Name": "muzzle_qbz97",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -6,
         "HorizontalRecoil": -5,
@@ -74,7 +76,8 @@
     },
     "04C04CBBA97BBA974C000000": {
         "ItemID": "04C04CBBA97BBA974C000000",
-        "Name": "rear_sight_qbz97",
+        "Name": "rs_qbz97",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -89,6 +92,7 @@
     "046046BBA97BBA9746000000": {
         "ItemID": "046046BBA97BBA9746000000",
         "Name": "mount_optic",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -100,6 +104,7 @@
     "047047BBA97BBA9747000000": {
         "ItemID": "047047BBA97BBA9747000000",
         "Name": "mount_bottom",
+        "TemplateType": "mod",
         "ModType": "foregrip_adapter",
         "Ergonomics": -2,
         "Accuracy": 0,
@@ -111,6 +116,7 @@
     "048048BBA97BBA9748000000": {
         "ItemID": "048048BBA97BBA9748000000",
         "Name": "mount_side",
+        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": -1,
         "Accuracy": 0,

@@ -1,7 +1,8 @@
 {
     "020020195195F95556000000": {
         "ItemID": "020020195195F95556000000",
-        "Name": "tavor_x95_556",
+        "Name": "weapon_tavor_x95_556",
+        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,7 +49,8 @@
     },
     "020020195195F95545000000": {
         "ItemID": "020020195195F95545000000",
-        "Name": "tavor_x95_R_545",
+        "Name": "weapon_tavor_x95_R_545",
+        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -96,6 +98,7 @@
     "042042195195F95042000000": {
         "ItemID": "042042195195F95042000000",
         "Name": "pg_x95",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -111,6 +114,7 @@
     "042042195195033000000000": {
         "ItemID": "042042195195033000000000",
         "Name": "pg_x95_2",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -126,6 +130,7 @@
     "041041195195F95041000000": {
         "ItemID": "041041195195F95041000000",
         "Name": "hg_x95",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3.5,
         "HorizontalRecoil": -3,
@@ -141,7 +146,8 @@
     },
     "04B64B19519564B556000000": {
         "ItemID": "04B64B19519564B556000000",
-        "Name": "16_5in_x95_556",
+        "Name": "barrel_16_5in_x95_556",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -12,
         "HorizontalRecoil": -10,
@@ -164,7 +170,8 @@
     },
     "04B84B19519584B556000000": {
         "ItemID": "04B84B19519584B556000000",
-        "Name": "18_5in_x95_556",
+        "Name": "barrel_18_5in_x95_556",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -13,
         "HorizontalRecoil": -14,
@@ -187,7 +194,8 @@
     },
     "04B64B19519564B545000000": {
         "ItemID": "04B64B19519564B545000000",
-        "Name": "16_5in_x95_545",
+        "Name": "barrel_16_5in_x95_545",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -12,
         "HorizontalRecoil": -10,
@@ -210,7 +218,8 @@
     },
     "04B84B19519584B545000000": {
         "ItemID": "04B84B19519584B545000000",
-        "Name": "18_5in_x95_545",
+        "Name": "barrel_18_5in_x95_545",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -13,
         "HorizontalRecoil": -14,
@@ -233,7 +242,8 @@
     },
     "02F030195195030545000000": {
         "ItemID": "02F030195195030545000000",
-        "Name": "stanag_30_545",
+        "Name": "mag_stanag_30_545",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -249,7 +259,8 @@
     },
     "02F060195195060545000000": {
         "ItemID": "02F060195195060545000000",
-        "Name": "stanag_60_545",
+        "Name": "mag_60_545",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 10,
         "Ergonomics": -2,

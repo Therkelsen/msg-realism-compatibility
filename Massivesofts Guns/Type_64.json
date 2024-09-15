@@ -1,7 +1,8 @@
 {
     "022022C64C64000000000000": {
 		"ItemID": "022022C64C64000000000000",
-        "Name": "weapon_type64_762x25_container",
+        "Name": "weapon_type64",
+        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -47,7 +48,8 @@
 	},
     "044044C64C64044000000000": {
         "ItemID": "044044C64C64044000000000",
-        "Name": "reciever_type64_default",
+        "Name": "rec_type64_def",
+        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -65,7 +67,8 @@
     },
     "044C64C64C64C64000000000": {
         "ItemID": "044C64C64C64C64000000000",
-        "Name": "reciever_type64_lsg",
+        "Name": "rec_type64_lsg",
+        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": -3,
@@ -83,7 +86,8 @@
     },
     "0410CCC64C64CCC000000000": {
 		"ItemID": "0410CCC64C64CCC000000000",
-        "Name": "handguard_type64_m_lok_c",
+        "Name": "hg_type64_m_lok_c",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 2,
@@ -100,7 +104,8 @@
 	},
     "0410FFC64C64FFF000000000": {
 		"ItemID": "0410FFC64C64FFF000000000",
-        "Name": "handguard_type64_m_lok_l",
+        "Name": "hg_type64_m_lok_l",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -1,
@@ -117,7 +122,8 @@
 	},
     "042042C64C64042000000000": {
 		"ItemID": "042042C64C64042000000000",
-        "Name": "pistol_grip_type64_default",
+        "Name": "pg_type64_def",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -132,7 +138,8 @@
 	},
     "042F02C64C64F02000000000": {
 		"ItemID": "042F02C64C64F02000000000",
-        "Name": "pistol_grip_type64_lsg",
+        "Name": "pg_type64_lsg",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -147,7 +154,8 @@
 	},
     "043043C64C64043000000000": {
 		"ItemID": "043043C64C64043000000000",
-        "Name": "stock_type64_default",
+        "Name": "stock_type64_def",
+        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -4,
         "HorizontalRecoil": 8,
@@ -170,6 +178,7 @@
     "043302C64C64302000000000": {
 		"ItemID": "043302C64C64302000000000",
         "Name": "stock_type64_lsg",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -192,6 +201,7 @@
     "043301C64C64301000000000": {
 		"ItemID": "043301C64C64301000000000",
         "Name": "stock_qtum",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -213,7 +223,8 @@
 	},
     "04B04BC64C6404B000000000": {
 		"ItemID": "04B04BC64C6404B000000000",
-        "Name": "barrel_typr64_default",
+        "Name": "barrel_typr64_def",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 1,
         "HorizontalRecoil": 2,
@@ -237,6 +248,7 @@
     "04BB01C64C64B01000000000": {
 		"ItemID": "04BB01C64C64B01000000000",
         "Name": "barrel_type64_lsg",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -4,
@@ -259,7 +271,8 @@
 	},
     "02F000C64C6402F000000000": {
 		"ItemID": "02F000C64C6402F000000000",
-        "Name": "magazine_type64_default",
+        "Name": "mag_type64_def",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -275,7 +288,8 @@
 	},
     "02F111C64C64111000000000": {
 		"ItemID": "02F111C64C64111000000000",
-        "Name": "magazine_type64_poly",
+        "Name": "mag_type64_poly",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -8,
         "Ergonomics": -4,

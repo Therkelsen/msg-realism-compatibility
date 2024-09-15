@@ -1,7 +1,8 @@
 {
     "020020AA14AA140000000000": {
 		"ItemID": "020020AA14AA140000000000",
-        "Name": "weapon_m14_762x51_container",
+        "Name": "weapon_m14",
+        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -52,7 +53,8 @@
 	},
     "041041AA14AA144100000000": {
 		"ItemID": "041041AA14AA144100000000",
-        "Name": "m14_handguard",
+        "Name": "hg_m14",
+        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -12,
@@ -74,7 +76,8 @@
 	},
     "04B04BAA14AA14BB00000000": {
 		"ItemID": "04B04BAA14AA14BB00000000",
-        "Name": "mod_barrel_M14_22_MASSIVESOFT",
+        "Name": "barrel_M14_22",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -7,
@@ -102,7 +105,8 @@
 	},
     "04A04AAA14AA14AA00000000": {
         "ItemID": "04A04AAA14AA14AA00000000",
-        "Name": "mod_muzzle_M14_massivesoft",
+        "Name": "muzzle_M14",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -128,7 +132,8 @@
     },
     "049049AA14AA14FF00000000": {
         "ItemID": "049049AA14AA14FF00000000",
-        "Name": "mod_sight_M14_massivesoft",
+        "Name": "sight_M14",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -142,7 +147,8 @@
     },
     "0410EBAA14AA14EB00000000": {
         "ItemID": "0410EBAA14AA14EB00000000",
-        "Name": "mod_stock_M14_ebr_massivesoft",
+        "Name": "stock_M14_ebr",
+        "TemplateType": "mod",
         "ModType": "StockN",
         "VerticalRecoil": -10,
         "HorizontalRecoil": -2,
