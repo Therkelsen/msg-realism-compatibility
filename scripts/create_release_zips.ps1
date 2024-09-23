@@ -27,6 +27,7 @@ $filesToMove = @(
     'Massivesofts Guns\ISO_Hemlok.json',
     'Massivesofts Guns\ISO.json',
     'Massivesofts Guns\JAK_12.json',
+    'Massivesofts Guns\Longbow.json',
     'Massivesofts Guns\M14.json',
     'Massivesofts Guns\M1911CE.json',
     'Massivesofts Guns\MCW.json',
